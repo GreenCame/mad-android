@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MadAndroid</string>
+    <string name="app_name_compagny">Ju game dev</string>
+    
+    <string name="menu_ico_1">User</string>
+    <string name="menu_text_1">Update your profil</string>
+    <string name="menu_ico_2">Stats</string>
+    <string name="menu_text_2">See your stats</string>
+    <string name="menu_ico_3">Options</string>
+    <string name="menu_text_3">App options</string>
+    <string name="menu_ico_4">Join</string>
+    <string name="menu_text_4">Invite friends \n join them</string>
+    <string name="menu_ico_5">Idea</string>
+    <string name="menu_text_5">Share your idea</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
